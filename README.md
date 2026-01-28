@@ -1,4 +1,5 @@
 # two-dimensional-array
+
 #include<stdio.h>
 int main(){
 int rows,cols,i,j;
